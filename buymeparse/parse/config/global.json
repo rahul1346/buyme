@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "BuyMe1": {
+            "applicationId": "9QiZSCAogcXupMYWpbRiCTgrQGP8sui4cWMDV9SJ", 
+            "masterKey": "Zdvtmifv4XYbnZqEjnqsir8hhd7bSHGGdzS5c558"
+        }, 
+        "_default": {
+            "link": "BuyMe1"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.5"
+    }
+}
